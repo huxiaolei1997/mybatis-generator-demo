@@ -1,0 +1,19 @@
+
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+R
+"src/main/resources/jdbc.properties,0\1\0136773a90d52716a72d1440f04397293425e328
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+V
+&src/main/resources/generatorConfig.xml,e\0\e0040facd3d27195741b8feb837a4525b22d6a54
+k
+;src/main/java/com/mybatis/generator/demo/model/Message.java,d\0\d005923c41ffd65fba37fcf6585bd2f0b0295585
+r
+Bsrc/main/java/com/mybatis/generator/demo/model/MessageExample.java,e\f\ef382515f41f902e5e2982a2e3c31238276bb984
+r
+Bsrc/main/java/com/mybatis/generator/demo/mapper/MessageMapper.java,1\6\16d2fccae7070e999ffde6f2a5b28104bd33ff16
+q
+Asrc/main/java/com/mybatis/generator/demo/mapper/MessageMapper.xml,a\8\a8bc3f69f16f499c52958abc6162851c2afb00ca

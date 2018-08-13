@@ -17,3 +17,5 @@ r
 Bsrc/main/java/com/mybatis/generator/demo/mapper/MessageMapper.java,1\6\16d2fccae7070e999ffde6f2a5b28104bd33ff16
 q
 Asrc/main/java/com/mybatis/generator/demo/mapper/MessageMapper.xml,a\8\a8bc3f69f16f499c52958abc6162851c2afb00ca
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

@@ -1,0 +1,4 @@
+14:36:49.401 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+14:36:50.005 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Parsed configuration file: 'class path resource [mybatis-config.xml]'
+14:36:50.007 [main] DEBUG org.mybatis.spring.SqlSessionFactoryBean - Property 'mapperLocations' was not specified or no matching resources found
+14:36:51.154 [main] INFO  com.mybatis.generator.demo.mapper.MessageMapperTest - messageList=[Message{id=1, message='999'}, Message{id=18, message='999'}, Message{id=26, message='999'}, Message{id=58, message='999'}, Message{id=67, message='999'}, Message{id=77, message='999'}]
